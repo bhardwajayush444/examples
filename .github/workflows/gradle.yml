@@ -3,7 +3,7 @@ name: Builds Gradle sample
 on:
   push:
     branches:
-    - master
+    - develop
     paths:
     - gradle/**
 
